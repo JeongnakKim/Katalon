@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Autotest HD account logout</description>
+   <name>HD_Summary_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7c07330-9733-40ca-b628-3d2e7d007351</testCaseGuid>
+</TestCaseEntity>

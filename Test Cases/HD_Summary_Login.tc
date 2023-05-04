@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AutoTest account Login</description>
+   <name>HD_Summary_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc6797c-e7d2-4479-ac71-191e69d65807</testCaseGuid>
+</TestCaseEntity>
