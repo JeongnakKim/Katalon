@@ -12,6 +12,13 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>51180161-455d-48bd-9cae-5950dc450340</testSuiteGuid>
    <testCaseLink>
+      <guid>3aac6aab-109c-4041-94ae-5b666359a126</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HD_Summary_Landing</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>5eee05bf-da7c-418f-8a2a-1ca70ce1aae8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

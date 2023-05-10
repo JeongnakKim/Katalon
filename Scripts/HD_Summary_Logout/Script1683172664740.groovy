@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('HD_Luncher/Profile_icon'))
 
-WebUI.click(findTestObject('HD_Luncher/Logout_button'))
+WebUI.click(findTestObject('HD_Luncher/button_Logout'))
 

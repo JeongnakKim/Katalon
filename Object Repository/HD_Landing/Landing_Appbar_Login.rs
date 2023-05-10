@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_</name>
+   <name>Landing_Appbar_Login</name>
    <tag></tag>
-   <elementGuidId>c11f2512-41a8-464d-92c8-dbf0cbb0a095</elementGuidId>
+   <elementGuidId>fdb6e672-ba9f-4872-91c7-ad085a89fbe3</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.MuiButton-root.MuiButton-textOnly.MuiButton-textOnlyPrimary.MuiButton-sizeMedium.MuiButton-textOnlySizeMedium.MuiButtonBase-root.css-e90map > span</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/header/div/div/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-textOnly.MuiButton-textOnlyPrimary.MuiButton-sizeMedium.MuiButton-textOnlySizeMedium.MuiButtonBase-root.css-e90map > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e5439d95-7a5f-4a1c-b738-558e49828339</webElementGuid>
+      <webElementGuid>c60c5271-b7eb-42d3-8df2-602ec834420b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>로그인</value>
-      <webElementGuid>3c4b567a-3ca6-4e44-b783-5e306c4d59c3</webElementGuid>
+      <webElementGuid>ebde7f41-8809-4cb4-a678-08e603c882d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1ehj4p5&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1by8ed8&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-v82dal&quot;]/div[@class=&quot;MuiBox-root css-18ypqnj&quot;]/button[@class=&quot;MuiButton-root MuiButton-textOnly MuiButton-textOnlyPrimary MuiButton-sizeMedium MuiButton-textOnlySizeMedium MuiButtonBase-root css-e90map&quot;]/span[1]</value>
-      <webElementGuid>ab5c24a2-d381-4080-bff3-ecc79ac4716b</webElementGuid>
+      <webElementGuid>a6fda0be-fab9-4437-b54e-d3153434b91b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/header/div/div/div/div[2]/button/span</value>
-      <webElementGuid>bd83987e-1873-4785-8639-68c31c1797d5</webElementGuid>
+      <webElementGuid>dd473e0d-d4f9-4b94-a5e6-62a40d61dd2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='요금제'])[1]/following::span[1]</value>
-      <webElementGuid>d424065e-ecec-47e0-9926-43775bf40b45</webElementGuid>
+      <webElementGuid>3ec29748-a521-45dc-b4b5-4328b168c79a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='다운로드'])[1]/following::span[1]</value>
-      <webElementGuid>bf9b5934-951e-4310-a470-093bc5de64b9</webElementGuid>
+      <webElementGuid>7bdc1af7-5a14-425d-b9ac-547b97d83636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[1]/preceding::span[1]</value>
-      <webElementGuid>a042631a-91b0-4e3a-a44a-67b59dbc3fbb</webElementGuid>
+      <webElementGuid>0f3e732a-c5c6-4e23-93fe-ffe4220c04ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='이용권 등록하기'])[1]/preceding::span[2]</value>
-      <webElementGuid>53843f59-5e5d-483c-baa5-b0c51a55cbae</webElementGuid>
+      <webElementGuid>f2a383c2-ed2d-452b-bd7b-af77e8bbafa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
-      <webElementGuid>210cf970-5383-4cac-99cd-5aed2109aa43</webElementGuid>
+      <webElementGuid>dda7267e-36f6-430f-965c-8f4e010b87b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button/span</value>
-      <webElementGuid>301e6e8c-e4fa-43f3-befe-62d4e3b2efaf</webElementGuid>
+      <webElementGuid>2ea50671-ff90-4267-bb87-495dd79b6440</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '로그인' or . = '로그인')]</value>
-      <webElementGuid>24186f3a-08dd-4470-98f3-ac80c4842914</webElementGuid>
+      <webElementGuid>eee6cee8-bae0-4af2-b0bd-7c155554e155</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

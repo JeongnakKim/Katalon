@@ -17,15 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('HD_Luncher/Menu_Storage'))
 
-WebUI.navigateToUrl('https://www.hancomdocs.com/')
+WebUI.click(findTestObject('Object Repository/HD_Luncher/button_NewCreate'))
 
-WebUI.click(findTestObject('HD_Landing/Landing_Appbar_Login'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/button_NewCreate_hangeul'))
 
-WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
+WebUI.switchToWindowIndex(1)
 
-WebUI.setEncryptedText(findTestObject('HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
+WebUI.waitForPageLoad(0)
 
-WebUI.click(findTestObject('HD_Landing/button_Login'))
+WebUI.closeWindowIndex(1)
+
+WebUI.switchToWindowIndex(0)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/variable object/svg'))
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/contextmenu_delete'))
 

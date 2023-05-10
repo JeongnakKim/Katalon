@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Autotest HD account logout</description>
+   <description>로그아웃
+ 1.런처 > 계정메뉴를 통해 로그아웃 (랜딩페이지 이동)</description>
    <name>HD_Summary_Logout</name>
    <tag></tag>
    <comment></comment>

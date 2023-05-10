@@ -6,12 +6,12 @@
    <elementGuidId>81d81a5d-bb71-4b3c-8af5-5a7df9d69b55</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.MuiAvatar-img.css-1hy9t21</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/header/div/div/div[3]/button[3]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiAvatar-img.css-1hy9t21</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>0046cbb2-0918-45c3-aa6b-a687749a6e9d</webElementGuid>
+      <webElementGuid>47840ea6-ffa0-46fb-9b15-83bee739747f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>blob:https://www.hancomdocs.com/2cc34607-d24e-43aa-a2d6-7b3245284d4e</value>
-      <webElementGuid>98964d59-d49e-4d2a-b0aa-89dd5627648e</webElementGuid>
+      <webElementGuid>641da90c-01b6-4cc7-a87e-da8d931194e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAvatar-img css-1hy9t21</value>
-      <webElementGuid>42244701-1ba0-4b11-b43c-20830e4e6373</webElementGuid>
+      <webElementGuid>2d08ad76-57d0-49cd-8335-d315eb88f830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-ov9fzc&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1lljh5p&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-140v1mh&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-90g4ls&quot;]/div[@class=&quot;MuiBox-root css-1hx2wa1&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular css-qn1cgr&quot;]/img[@class=&quot;MuiAvatar-img css-1hy9t21&quot;]</value>
-      <webElementGuid>6b57603f-5b6e-4bd5-892d-c35b919acb55</webElementGuid>
+      <webElementGuid>8e5eea81-93f8-462f-814f-1965719f1274</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/header/div/div/div[3]/button[3]/div/div/img</value>
-      <webElementGuid>7403fdcd-9766-4c99-9bc7-d07f8b82281a</webElementGuid>
+      <webElementGuid>e92a92f0-1bff-43e9-aac9-d735b7d32619</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'blob:https://www.hancomdocs.com/2cc34607-d24e-43aa-a2d6-7b3245284d4e')]</value>
-      <webElementGuid>36d1e795-5187-464c-a1af-0e461b35870b</webElementGuid>
+      <webElementGuid>216bba38-6cd0-47e3-a64e-5fc680cc56a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>fdb4b019-5377-4ca5-9d92-e6872bfadf9f</webElementGuid>
+      <webElementGuid>7c5ea2c5-7239-4da5-8e29-c2cb85572742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'blob:https://www.hancomdocs.com/2cc34607-d24e-43aa-a2d6-7b3245284d4e']</value>
-      <webElementGuid>0e43c77b-f055-44c5-a19c-23bd92b48274</webElementGuid>
+      <webElementGuid>65b68ab2-ea56-4cf0-9977-56ad5cd04e69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
