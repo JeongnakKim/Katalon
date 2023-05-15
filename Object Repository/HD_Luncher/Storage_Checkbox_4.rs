@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Storage_Checkbox_2</name>
+   <name>Storage_Checkbox_4</name>
    <tag></tag>
-   <elementGuidId>b13428a8-ae32-49ef-9a04-5c267b10b240</elementGuidId>
+   <elementGuidId>01c07252-9263-4280-8d7a-24b3cacb3f52</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div/div/div[2]/div[2]/div/div/div[2]/div[1]/span/input
-</value>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div/div/div[2]/div[2]/div/div/div[4]/div[1]/span/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>917d02ad-21ff-4d55-86da-dbec815122bf</webElementGuid>
+      <webElementGuid>889a17c9-3970-4ec9-bc8f-0b1be4ea6a14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>PrivateSwitchBase-input css-1m9pwf3</value>
-      <webElementGuid>6218ea5a-2ee9-41fc-b836-631c64acc4a9</webElementGuid>
+      <webElementGuid>3801e225-94f2-4227-961b-2fbb181672a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>751932af-513b-4216-85b2-8abf7b797b3b</webElementGuid>
+      <webElementGuid>a740a79a-96f3-490b-a5e1-22265708f348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>data-indeterminate</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>69396853-c5cb-49ab-87d4-04c829d6d0be</webElementGuid>
+      <webElementGuid>b72852e7-299d-49b0-bc17-5a8803b11a6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Checkbox</value>
-      <webElementGuid>190c9d17-c094-43a0-ae33-8a997748d37b</webElementGuid>
+      <webElementGuid>4258a877-ac7d-4a4e-b480-72df2cb04dce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[3]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row selected MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-b2p8ml&quot;]/span[@class=&quot;MuiCheckbox-root MuiCheckbox-colorDefault MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorDefault PrivateSwitchBase-root Mui-checked css-1talt1g&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
-      <webElementGuid>47edeaf6-ee42-4de3-98cf-a208c1dbfc64</webElementGuid>
+      <webElementGuid>559677e1-9d34-468c-a15e-a9ff50158fc5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='checkbox'])[2]</value>
-      <webElementGuid>da7e6f27-1b46-4cde-b8b8-17479b766433</webElementGuid>
+      <webElementGuid>aa8bbfc9-81c6-4543-aebe-3ebdb16fe3eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div/div/span/input</value>
-      <webElementGuid>04cb7781-1d7e-4710-b98b-3c84990a0278</webElementGuid>
+      <webElementGuid>a3c7f87a-74c0-43f0-bf3e-3fbe6531c0ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/span/input</value>
-      <webElementGuid>750809af-aa04-445c-ad9f-88e3326fb2b2</webElementGuid>
+      <webElementGuid>1635ab39-cc8d-46d9-aaf9-217b50bde0d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>1cd48663-67d8-4dc7-8105-d536cb3d9818</webElementGuid>
+      <webElementGuid>3fcec720-f562-496c-9bfd-41fad17ade68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
